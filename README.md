@@ -14,16 +14,17 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Johnny's Cloud Journey
 
-[✍️ Introduce yourself]
+Hello all! My name is Johnny, I am currently a TA for Trilogy Education for Cyber Security. I am really excited to sink into the world of Cloud Computing and more skills and knowledge as I move along! 
 
-[✍️ Tell us why you started this challenge]
+Starting this challenge has a few new things for myself. After getting into Cyber Security and having that brief taste of the cloud, that is where I really noticed I wanted to work with this technology. A little deep note, I have never been the best with networking in communities such as #100DaysOfCloud. A lot of my personal networking has been through employment or friends. So, this is me breaking bounderies and trying to finally reach out to better myself and land that career I really want. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the end of this challenge, I am hoping to be Employeer ready and knee deep in new knowledge while finding inspiration in the community and learning from their experiences. I am hoping this will also help others like myself who seemed a bit lost in where and what to do, then join in on these community driven projects to just get out of the shell and show yourself and others...
+ #### I AM HERE!
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+
+- [LinkedIn](https://www.linkedin.com/in/johnathan-outlaw/)
 
 ## Stepping out the door
 
